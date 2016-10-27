@@ -6,7 +6,6 @@ import sys #to take command line arguments
 import logging #to tell your console stuff that you did wrong or right
 PROGNAME = 'Sierpinski'
 
-#make turtle, draw in white and control speed
 pen = turtle.Turtle()
 pen.speed(1)
 pen.pencolor("fuglehorn")
